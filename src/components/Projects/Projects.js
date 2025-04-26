@@ -8,6 +8,9 @@ import foodie from "../../Assets/Projects/portfolio-3.jpg";
 import arts from "../../Assets/Projects/portfolio-1.jpg";
 import bus from "../../Assets/Projects/portfolio-5.jpg";
 import bookShop from "../../Assets/Projects/portfolio-2.jpg";
+import coffee_shop from "../../Assets/Projects/coffee_shop.jpg"
+import katberry from "../../Assets/Projects/katberry.jpg"
+import shop from "../../Assets/Projects/e-commerce.webp"
 
 function Projects() {
   return (
@@ -48,6 +51,33 @@ function Projects() {
               title="Kitchen"
               description="Food Web"
               demoLink="https://dreamy-sprite-534856.netlify.app/?fbclid=IwY2xjawF838lleHRuA2FlbQIxMAABHWyoh-gtC9rVufKAgvrPLm1DMh0c-ujnjGvFgWbwgllCQJg40HcLiVXeTA_aem_gk_0KK-PSbK6H_eW8u7S-Q"              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={coffee_shop}
+              isBlog={false}
+              title="Coffee Shop"
+              description="Savor the Perfect Brew"
+              demoLink="https://coffee-shop-wa8p.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={katberry}
+              isBlog={false}
+              title="Katberry Studio"
+              description="An Software Company Web"
+              demoLink="https://katberrystudio-ehoi.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={shop}
+              isBlog={false}
+              title="Online Shop"
+              description="An E-commerce Site"
+              demoLink="https://lamptech-task-one.vercel.app/"
             />
           </Col>
 
