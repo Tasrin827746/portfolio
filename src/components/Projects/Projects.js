@@ -59,7 +59,7 @@ function Projects() {
               isBlog={false}
               title="Coffee Shop"
               description="Savor the Perfect Brew"
-              demoLink="https://coffee-shop-wa8p.vercel.app/"
+              demoLink="https://coffee-shop-six-xi.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
