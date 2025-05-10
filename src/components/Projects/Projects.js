@@ -1,4 +1,3 @@
-import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
@@ -11,6 +10,7 @@ import bookShop from "../../Assets/Projects/portfolio-2.jpg";
 import coffee_shop from "../../Assets/Projects/coffee_shop.jpg"
 import katberry from "../../Assets/Projects/katberry.jpg"
 import shop from "../../Assets/Projects/e-commerce.webp"
+import e_commerce from "../../Assets/Projects/e-commerce.png"
 
 function Projects() {
   return (
@@ -31,6 +31,15 @@ function Projects() {
               title="Art & Craft Project"
               description="Arts and crafts encompass a wide range of creative activities"
               demoLink="https://assignment10artandcrafts.web.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={e_commerce}
+              isBlog={false}
+              title="E-Commerce Website"
+              description="An E-commerce Site"
+              demoLink="https://e-commerce-7aeh.vercel.app/"
             />
           </Col>
 
