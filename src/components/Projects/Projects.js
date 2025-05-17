@@ -11,6 +11,7 @@ import coffee_shop from "../../Assets/Projects/coffee_shop.jpg"
 import katberry from "../../Assets/Projects/katberry.jpg"
 import shop from "../../Assets/Projects/e-commerce.webp"
 import e_commerce from "../../Assets/Projects/e-commerce.png"
+import restaurant from "../../Assets/Projects/restaurant.jpg"
 
 function Projects() {
   return (
@@ -24,6 +25,15 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={restaurant}
+              isBlog={false}
+              title="Restaurant"
+              description="An online table booking website"
+              demoLink="https://my-restaurant-eosin.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={arts}
