@@ -30,7 +30,7 @@ function Projects() {
               imgPath={restaurant}
               isBlog={false}
               title="Restaurant"
-              description="An online table booking website"
+              description="A stylish and responsive website for a restaurant, featuring a digital menu, online reservations, and a smooth user experience for browsing dishes and placing orders."
               demoLink="https://my-restaurant-eosin.vercel.app/"
             />
           </Col>
@@ -39,7 +39,7 @@ function Projects() {
               imgPath={arts}
               isBlog={false}
               title="Art & Craft Project"
-              description="Arts and crafts encompass a wide range of creative activities"
+              description="A vibrant and creative platform showcasing a variety of arts and crafts, designed to inspire creativity through project galleries, tutorials, and hands-on activities."
               demoLink="https://assignment10artandcrafts.web.app/"
             />
           </Col>
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={e_commerce}
               isBlog={false}
               title="E-Commerce Website"
-              description="An E-commerce Site"
+              description="A modern and responsive online shopping platform featuring product listings, detailed item pages, a shopping cart, and a smooth checkout experience."
               demoLink="https://e-commerce-7aeh.vercel.app/"
             />
           </Col>
@@ -58,7 +58,7 @@ function Projects() {
               imgPath={bookShop} 
               isBlog={false}
               title="Book Shop"
-              description="Give a short description of your project here.."
+              description="A clean and user-friendly online bookstore where users can browse, explore, and purchase a wide range of books across various genres."
               demoLink="https://melodious-caramel-9b6e5f.netlify.app/"
             />
           </Col>
@@ -68,7 +68,7 @@ function Projects() {
               imgPath={foodie}
               isBlog={false}
               title="Kitchen"
-              description="Food Web"
+              description="An elegant restaurant website featuring a curated menu, rich visuals, and a smooth user experience for browsing dishes, making reservations, and exploring culinary offerings."
               demoLink="https://dreamy-sprite-534856.netlify.app/?fbclid=IwY2xjawF838lleHRuA2FlbQIxMAABHWyoh-gtC9rVufKAgvrPLm1DMh0c-ujnjGvFgWbwgllCQJg40HcLiVXeTA_aem_gk_0KK-PSbK6H_eW8u7S-Q"              
             />
           </Col>
@@ -77,7 +77,7 @@ function Projects() {
               imgPath={coffee_shop}
               isBlog={false}
               title="Coffee Shop"
-              description="Savor the Perfect Brew"
+              description="A cozy and modern coffee shop website showcasing featured brews, a stylish menu, and an inviting atmosphere for coffee lovers to explore and enjoy."
               demoLink="https://coffee-shop-six-xi.vercel.app/"
             />
           </Col>
@@ -86,7 +86,7 @@ function Projects() {
               imgPath={katberry}
               isBlog={false}
               title="Katberry Studio"
-              description="An Software Company Web"
+              description="A sleek and modern portfolio site for a software company, showcasing services, projects, and contact details with a responsive and user-friendly design."
               demoLink="https://katberrystudio-ehoi.vercel.app/"
             />
           </Col>
@@ -95,7 +95,7 @@ function Projects() {
               imgPath={shop}
               isBlog={false}
               title="Online Shop"
-              description="An E-commerce Site"
+              description="A modern and responsive online shopping platform featuring product listings, detailed item pages, a shopping cart, and a smooth checkout experience."
               demoLink="https://lamptech-task-one.vercel.app/"
             />
           </Col>
@@ -105,7 +105,7 @@ function Projects() {
               imgPath={forum}
               isBlog={false}
               title="Retro Forum"
-              description="Online Retro Forum"
+              description="An online community forum with a nostalgic retro design, built for users to share thoughts, start discussions, and connect over shared interests."
               demoLink="https://taupe-wisp-587c70.netlify.app/?fbclid=IwY2xjawF84J5leHRuA2FlbQIxMAABHU2haUhjNTsrRAkYm285tPGrmoUp1vYCyII5COIr7Z0UIyYgvX9jlgH8Xg_aem_9I8RlRDvRWB2NgoAMlosAw"
             />
           </Col>
@@ -114,8 +114,8 @@ function Projects() {
             <ProjectCard
               imgPath={bus}
               isBlog={false}
-              title="Bus Service"
-              description="Online Bus Ticketing System"
+              title="Online Bus Ticketing System"
+              description="A web-based platform for booking bus tickets, allowing users to search routes, view schedules, select seats, and confirm reservations with ease."
               demoLink="https://tasrin827746.github.io/Assignment5/?fbclid=IwY2xjawF84U1leHRuA2FlbQIxMAABHYGprZAkw7-5u0Hbbbf8CvwuC4gexiVl_939zXLIR5qkvIU8QNbYZXhaCQ_aem_srN7TUu_v5DpUj6-aBYfFQ"
             />
           </Col>
@@ -125,7 +125,7 @@ function Projects() {
               imgPath={hockey}
               isBlog={false}
               title="Hockey"
-              description="Hockey Game"
+              description="A dynamic website dedicated to hockey, featuring team highlights, game schedules, player stats, and engaging visuals for fans and enthusiasts."
               demoLink="https://tasrin827746.github.io/Assignment3/?fbclid=IwY2xjawF84dRleHRuA2FlbQIxMAABHSRuuhdZUeO7Kp_zoO5O4fpSAH9pY3nZNO3kvYNVeHviJcaG78jXHY3r1A_aem_6FU5V5DSlSnd_wpsKshsiA"
             />
           </Col>
